@@ -8,6 +8,7 @@ import jennymod
 # you can put py right after the triple acute sign for syntax highlighting
 print("I don't know python")
 # exit(420) only for dire situations
+# This file will be ported into Elemental on Minecraft
 cosmictelluride: float = 1
 running = True
 brnfk = 'brainfuck = "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<++++>[-]"'
